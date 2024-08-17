@@ -1,6 +1,19 @@
 ## Hello 👋 I am Areej
+
 # 💫 About Me:
-🔭 Currently working on: Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>🌱 Currently learning: In-depth backend development techniques, various frameworks, and database management.<br>👯 Looking to collaborate on: Open-source projects and dynamic web applications that emphasize user experience and additional features.<br>🤔 Seeking help with: Advanced concepts in Express and React, and integrating new technologies into existing projects.<br>💬 Ask me about: Frontend web development, HTML, CSS, JavaScript, website design, animations with JavaScript, GSAP, Locomotive, and other JavaScript libraries, or starting out in web development.<br>📫 How to reach me: Connect with me on LinkedIn or drop me an email at areejfatimasheikh25@gmail.com.<br>⚡ Fun fact: I'm passionate about reading and coffee. I also enjoy staying up-to-date with the latest tech trends through podcasts.
+
+🔭 Currently working on: Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>
+
+🌱 Currently learning: In-depth backend development techniques, various frameworks, and database management.<br>
+
+👯 Looking to collaborate on: Open-source projects and dynamic web applications emphasising user experience and additional features.<br>
+🤔 Seeking help with: Advanced concepts in Express and React, and integrating new technologies into existing projects.<br>
+
+💬 Ask me about: Frontend web development, HTML, CSS, JavaScript, website design, animations with JavaScript, GSAP, Locomotive, and other JavaScript libraries, or starting out in web development.<br>
+
+📫 How to reach me: Connect with me on LinkedIn or drop me an email at areejfatimasheikh25@gmail.com.<br>
+
+⚡ Fun fact: I'm passionate about reading and coffee. I also enjoy staying up-to-date with the latest tech trends through podcasts.
 
 
 ## 🌐 Socials:
