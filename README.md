@@ -2,18 +2,18 @@
 
 # 💫 About Me:
 
-🔭 Currently working on: Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>
+🔭<b> Currently working on: <b> Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>
 
-🌱 Currently learning: In-depth backend development techniques, various frameworks, and database management.<br>
+🌱 <b> Currently learning: <b> In-depth backend development techniques, various frameworks, and database management.<br>
 
-👯 Looking to collaborate on: Open-source projects and dynamic web applications emphasising user experience and additional features.<br>
-🤔 Seeking help with: Advanced concepts in Express and React, and integrating new technologies into existing projects.<br>
+👯<b> Looking to collaborate on: <b> Open-source projects and dynamic web applications emphasising user experience and additional features.<br>
+🤔<b> Seeking help with: <b> Advanced concepts in Express and React, and integrating new technologies into existing projects.<br>
 
-💬 Ask me about: Frontend web development, HTML, CSS, JavaScript, website design, animations with JavaScript, GSAP, Locomotive, and other JavaScript libraries, or starting out in web development.<br>
+💬 <b> Ask me about:<b> Frontend web development, HTML, CSS, JavaScript, website design, animations with JavaScript, GSAP, Locomotive, and other JavaScript libraries, or starting out in web development.<br>
 
-📫 How to reach me: Connect with me on LinkedIn or drop me an email at areejfatimasheikh25@gmail.com.<br>
+📫 <b> How to reach me: <b> Connect with me on LinkedIn or drop me an email at areejfatimasheikh25@gmail.com.<br>
 
-⚡ Fun fact: I'm passionate about reading and coffee. I also enjoy staying up-to-date with the latest tech trends through podcasts.
+⚡ <b>Fun fact: <b> I'm passionate about reading and coffee. I also enjoy staying up-to-date with the latest tech trends through podcasts.
 
 
 ## 🌐 Socials:
