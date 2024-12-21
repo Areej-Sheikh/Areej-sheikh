@@ -1,19 +1,14 @@
-## Hello 👋 I am Areej
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Areej+Sheikh" alt="Typing SVG" /></a>
 
-# 💫 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+India" alt="Typing SVG" /></a>
 
-🔭<b> Currently working on: <b> Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>
+<h3> Full Stack Developer || Self-Taught Developer </h3>
 
-🌱 <b> Currently learning: <b> In-depth backend development techniques, various frameworks, and database management.<br>
+### <u> Currently I'm learning: </u>
+<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-👯<b> Looking to collaborate on: <b> Open-source projects and dynamic web applications emphasising user experience and additional features.<br>
-🤔<b> Seeking help with: <b> Advanced concepts in Express and React, and integrating new technologies into existing projects.<br>
-
-💬 <b> Ask me about:<b> Frontend web development, HTML, CSS, JavaScript, website design, animations with JavaScript, GSAP, Locomotive, and other JavaScript libraries, or starting out in web development.<br>
-
-📫 <b> How to reach me: <b> Connect with me on LinkedIn or drop me an email at areejfatimasheikh25@gmail.com.<br>
-
-⚡ <b>Fun fact: <b> I'm passionate about reading and coffee. I also enjoy staying up-to-date with the latest tech trends through podcasts.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## 🌐 Socials:
