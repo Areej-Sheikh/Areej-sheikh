@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Areej+Sheikh" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Passionate+Fullstack+Developer+From+India" alt="Typing SVG" /></a>
 
 <h3> Full Stack Developer || Self-Taught Developer </h3>
 🔭<b> Currently working on: <b> Creating user-friendly web applications using HTML, CSS, and JavaScript, with a focus on frameworks like Tailwind, and advancing my frontend development skills.<br>
