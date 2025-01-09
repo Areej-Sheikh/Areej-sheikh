@@ -23,4 +23,5 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Areej-Sheikh&theme=codeSTACKr&hide_border=true)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Areej-Sheikh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areej-Sheikh&theme=codeSTACKr&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Areej-Sheikh&theme=codeSTACKr&hide_border=false)  
