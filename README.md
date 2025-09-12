@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Areej%20Sheikh.png" alt="Areej Sheikh" width="200"/>
+  <img src="assets/LinkedinBanner.png" alt="Areej Sheikh" width="2000000"/>
 </p>
 
 
