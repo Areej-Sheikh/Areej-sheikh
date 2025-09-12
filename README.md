@@ -18,12 +18,6 @@ Hi, I’m Areej Sheikh, a Full Stack Developer proficient in the MERN stack alon
 - ⚡ Fun fact: ☕ Coffee fuels my coding sessions — the stronger, the better!
 - 📚 An avid reader who enjoys tech blogs and staying up-to-date with web trends.
 
----
-
-## 🌐 Connect with Me  
-<p align="left">
-    <a href="https://linkedin.com/in/areej-sheikh5274"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
