@@ -9,7 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Passionate+Fullstack+Java+Developer" alt="Typing SVG" /></a>
 
-<h3> Full Stack Developer | MERN | Next.js | Tailwind | Java + Spring Boot </h3>
+<h3> Full Stack Developer | MERN | Next.js | Java + Spring Boot </h3>
 Hi, I’m Areej Sheikh, a Full Stack Developer proficient in the MERN stack along with Tailwind CSS, GSAP, and Next.js.  
 
 </br>💻Currently working on: Developing scalable, user-centric web applications that combine intuitive design with robust functionality, while exploring backend solutions with Java + Spring Boot  
