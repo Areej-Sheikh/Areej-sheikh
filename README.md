@@ -42,4 +42,4 @@ Hi, I’m Areej Sheikh, a Full Stack Developer proficient in the MERN stack alon
 ---
 # 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areej-Sheikh&theme=codeSTACKr&hide_border=false&layout=compact)
-[![GitHub Streak](https://github-readme-streak-statss-eta.vercel.app?user=Areej-Sheikh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-statss-eta.vercel.app?user=Areej-Sheikh&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
