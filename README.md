@@ -24,7 +24,7 @@ Hi, I’m Areej Sheikh, a Full Stack Developer proficient in the MERN stack alon
 - 📫 Reach me: **[Gmail](areejfatimasheikh25@gmail.com)**  |  **[LinkedIn](https://linkedin.com/in/areej-sheikh5274)**  
 - ⚡ Fun fact: ☕ Coffee fuels my coding sessions — the stronger, the better!
 - 📚 An avid reader who enjoys tech blogs and staying up-to-date with web trends.
-- 👨‍💻 Here is a link to My Portfolio - **[Portfolio](https://portfolio-m6cp8mua0-areej-fatima.vercel.app/)**
+- 👨‍💻 Here is a link to My Portfolio - **[Portfolio](https://portfolio-ivptdjja9-areej-fatima.vercel.app/)**
 
 ---
 
