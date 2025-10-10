@@ -21,7 +21,7 @@ Hi, I’m Areej Sheikh, a Full Stack Developer proficient in the MERN stack alon
 - 👯 Open to collaborate on **open-source projects & dynamic web apps**  
 - 🤔 Seeking help with **advanced React, Express & integrations**  
 - 💬 Ask me about **Frontend, animations (GSAP, Locomotive), and starting web dev**  
-- 📫 Reach me: **[Gmail](areejfatimasheikh25@gmail.com)**  |  **[LinkedIn](https://linkedin.com/in/areej-sheikh5274)**  
+- 📫 Reach me: **Gmail - areejfatimasheikh25@gmail.com**  |  **[LinkedIn](https://www.linkedin.com/in/areej-sheikh25/)**  
 - ⚡ Fun fact: ☕ Coffee fuels my coding sessions — the stronger, the better!
 - 📚 An avid reader who enjoys tech blogs and staying up-to-date with web trends.
 - 👨‍💻 Here is a link to My Portfolio - **[Portfolio](https://portfolio-ddvmfm0zy-areej-fatima.vercel.app/)**
